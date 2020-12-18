@@ -22,9 +22,9 @@ export default class Thankyou extends React.Component {
                     <div style={{fontSize:'30px',marginTop:10}}>
                         Thank you for your participation. 
                         <p style = {{fontSize:'30px', fontWeight:'bold'}}>
-                             Please enter SUCOM + last four characters of your worker ID as your completion code in MTurk.
+                             Please enter SUCOM5 + last four characters of your worker ID as your completion code in MTurk.
                             </p>
-                        <p style = {{fontSize:'25px'}}>E.g., if your work ID is "A0123456789XYZ", then your completion code is "SUCOM9XYZ". </p>
+                        <p style = {{fontSize:'25px'}}>E.g., if your work ID is "A0123456789XYZ", then your completion code is "SUCOM59XYZ". </p>
                     </div>
                 
                 </div>
