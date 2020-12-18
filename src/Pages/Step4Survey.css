@@ -1,0 +1,20 @@
+.title{
+    font-size: large;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0C090A;
+}
+.question{
+    margin-bottom: 40px;
+}
+.hidden{
+    display: none
+}
+.instruction{
+    font-size: larger;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #408000;
+}
