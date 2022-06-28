@@ -1,0 +1,40 @@
+.movie-title{
+    font-size: 15px;
+    width: 191.33px;
+	height: 30px;
+}
+
+
+/*animation of rating stars*/
+/* .fadeIn {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 0.5s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.invisible{
+    display: none
+} */
+
+/* .overlaystar{
+position: absolute; 
+top: 45%; 
+width: 80%;
+left: 10%;
+transition: .5s ease;
+opacity:0;
+background:white;
+}
+.movie-img:hover .overlaystar{
+	opacity:1;
+} */
